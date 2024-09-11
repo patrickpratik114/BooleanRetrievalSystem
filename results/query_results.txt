@@ -1,0 +1,4 @@
+Results for 'AI AND computer science': []
+Results for 'Python OR Machine Learning': ['document1.txt', 'document2.txt', 'document3.txt']
+Results for 'NOT Boolean retrieval': ['document1.txt', 'document2.txt', 'document3.txt', 'document5.txt']
+Results for 'Information retrieval AND NOT web development': []
